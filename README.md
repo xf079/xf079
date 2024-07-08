@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="left">Hi 👋, I'm <a href="https://github.com/xf079" target="blank">
+xfo79</a></h1>
+<h3 align="left">A passionate mobile app developer from China &#127470;&#127475</h3>
 
-<!--
-**xf079/xf079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-Here are some ideas to get you started:
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently Working on Mobile App(React-Native,React)
+
+- 🤝 I’m available for freelancing.
+
+- 💬 Ask me about **Reactjs & React-Native**
+
+- 📫 How to reach me **xfo79k@gmail.com**
+
+<br/>
