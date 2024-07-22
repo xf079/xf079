@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm <a href="https://github.com/xf079" target="blank">
 xfo79</a></h1>
-<h3 align="left">A passionate mobile app developer from China &#127470;&#127475</h3>
+<h3 align="left">A passionate mobile app developer from China </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
