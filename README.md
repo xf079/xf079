@@ -10,10 +10,6 @@ xfo79</a></h1>
 
 - 🌱 I’m currently Working on Mobile App(React-Native,React)
 
-- 🤝 I’m available for freelancing.
-
-- 💬 Ask me about **Reactjs & React-Native**
-
 - 📫 How to reach me **xfo79k@gmail.com**
 
 <br/>
